@@ -9,7 +9,7 @@ Marketplace name: **`kuno-commands`**
 Inside Claude Code:
 
 ```
-/plugin marketplace add Papillon6814/claude-commands
+/plugin marketplace add KendrickMalar/claude-commands
 /plugin install japanese-english@kuno-commands
 ```
 
@@ -45,7 +45,7 @@ Globally (all projects):
 
 ```bash
 curl -o ~/.claude/commands/japanese-english.md \
-  https://raw.githubusercontent.com/Papillon6814/claude-commands/main/plugins/japanese-english/commands/japanese-english.md
+  https://raw.githubusercontent.com/KendrickMalar/claude-commands/main/plugins/japanese-english/commands/japanese-english.md
 ```
 
 Per project: put the file in `.claude/commands/` instead.
